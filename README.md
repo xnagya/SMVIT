@@ -5,6 +5,8 @@ Bezpečnosť prírody a našich lesov je v súčasnosti čoraz zúfalejšia z h�
 
 V tejto práci by som rád analyzoval štruktúru siete a fungovanie kamerového systému, ukladanie zaznamenaných informácií, napájanie systému a výber a umiestnenie hardvérových komponentov systému. Verím, že táto oblasť má významný potenciál pre rozvoj a rozšírenie využitia, preto by som sa chcel venovať aj tomuto aspektu.
 
+Prezentácia projektu: [Link  text](https://github.com/xnagya/SMVIT/blob/main/Kamerov%C3%BD%20syst%C3%A9m%20v%C2%A0po%C4%BEovnom%20rev%C3%ADri.pptx)
+
 Dokumentácia projektu: [Link text](https://github.com/xnagya/SMVIT/blob/main/Camera_systems_int_the_hunting_grounds_english_Andr%C3%A1s_Nagy.pdf)
 
 Illustrácia:
